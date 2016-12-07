@@ -1,5 +1,8 @@
 # Mailchimp Lists API calls
 
+This repository contains a simple example on how to use the MailChimp API V3 (RESTFUL) calls for creating, updating, listing and deleting lists.
+This repository is only a starting point for anyone who is interested in using the MailChimp APIs. The project is easily extendible so please feel free to take it and make it yours extending it as much as possible.
+
 ## Source code
 - Libraries: `services/`
 - Configuration: `services/config.php`
