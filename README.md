@@ -1,6 +1,4 @@
 # Mailchimp Lists API calls
-- Author:   Andrea Rampin
-- LinkedIn: https://au.linkedin.com/in/andrea-rampin
 
 ## Source code
 - Libraries: `services/`
